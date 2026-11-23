@@ -115,5 +115,24 @@
 
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/chess?username=work-aditya&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F176790997%3Fu%3Dfefcc525c57c409a5f289f24c3daba0be7662c98%26v%3D4&v=cinematic-chess-1&mode=light" />
-  <img src="
-  
+  <img src="https://www.gitskins.com/api/section/chess?username=work-aditya&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F176790997%3Fu%3Dfefcc525c57c409a5f289f24c3daba0be7662c98%26v%3D4&v=cinematic-chess-1&mode=dark" width="100%" alt="Adieee animated chess replay" />
+</picture>
+
+<p align="center"><sub>─────── ◇ ───────</sub></p>
+
+<div align="center">
+<p><sub>THE NEXT SCENE</sub></p>
+
+<h2>Keep the story moving</h2>
+
+<p>I enjoy working with people who care about the details, share the context, and ship something useful.</p>
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=work-aditya&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F176790997%3Fu%3Dfefcc525c57c409a5f289f24c3daba0be7662c98%26v%3D4&v=cinematic-social-2&mode=light" />
+  <img src="https://www.gitskins.com/api/section/social?username=work-aditya&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F176790997%3Fu%3Dfefcc525c57c409a5f289f24c3daba0be7662c98%26v%3D4&v=cinematic-social-2&mode=dark" width="100%" alt="Adieee contact links" />
+</picture>
+
+<p><a href="https://github.com/work-aditya">GitHub</a></p>
+
+<p><sub>Adieee · cinematic profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
+</div>
